@@ -13,8 +13,6 @@ Core focus:
 
 ## 📂 Quick Access
 
-## 📂 Quick Access
-
 - [Jupyter Notebook](./Laptop_Price_Predictor.ipynb) — analysis and pipeline development
 - [Home.py](./Home.py) — main Streamlit app source code
 - [Deployed Streamlit App](https://laptoppricepredictor-unipi.streamlit.app/) — interactive web app
@@ -22,7 +20,7 @@ Core focus:
 - [Google Drive Folder](https://drive.google.com/drive/folders/1KzkWtlL4KB8dkorFx4SIqQwyxXpf4QDI?usp=drive_link) — additional project materials
 
 ## 📂 Project Structure
-
+```text 
 ├── Home.py
 ├── Laptop_Price_Predictor.ipynb
 ├── csv/                          # CSV datasets
@@ -52,6 +50,7 @@ Core focus:
 ├── .gitignore                    # Git ignore rules
 ├── icon.png                      # Project icon
 └── README.md                     # Main project documentation
+```
 
 ## 🚀 Installation
 
